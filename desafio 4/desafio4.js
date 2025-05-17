@@ -32,7 +32,7 @@ const boliche = (nombre, trajoDNI, edad) => {
 
 // Pedimos los datos al usuario
 const nombre = prompt("Ingresá tu nombre:");
-const edad = parseInt(prompt("Ingresá tu edad:"));
+const edad = prompt("Ingresá tu edad:");
 const trajoDNI = prompt("¿trajiste DNI? (si/no):")
 
 
